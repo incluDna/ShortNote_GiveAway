@@ -3,5 +3,5 @@ short note สำหรับอ่านเตรียมสอบ! 🔥💪�
 
 Biology
 -------
-• [Excretory System](./Biology/Excretory_System)
+• [Excretory System](https://github.com/incluDna/ShortNote_GiveAway/blob/6b660436761faede17fb214e41073e3e70619ccc/Biology/Excretory%20System.pdf)
  
