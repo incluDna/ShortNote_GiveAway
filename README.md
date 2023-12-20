@@ -3,5 +3,5 @@ short note สำหรับอ่านเตรียมสอบ! 🔥💪�
 
 Biology
 -------
-• [Excretory System](./Biology/Excretory)
+• [Excretory System](./Biology/Excretory_System)
  
