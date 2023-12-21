@@ -1,5 +1,5 @@
 # <img src="https://media.giphy.com/media/TahPFDVghjHps1jp8x/giphy.gif" width="35"> Short Note Giveaway
-short note สำหรับอ่านเตรียมสอบ! 🔥💪🏻
+short note สำหรับอ่านเตรียมสอบ! 🔥💪🏻  /Social media: X [@_𝔻𝔼𝔼ℕ𝔸ℝ𝕌𝕋𝕆](http://twitter.com/dee_tutor)
 
 Biology🌱
 -------
@@ -9,3 +9,4 @@ Biology🌱
 
 Chemistry🧪
 -------
+• [Stoichiometry](https://github.com/incluDna/ShortNote_GiveAway/blob/a1293b2a22a38331e2594acee9c1e50a497be943/Chemistry/Stoichiometry.pdf)
