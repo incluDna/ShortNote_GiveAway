@@ -9,5 +9,6 @@ Biology🌱
 
 Chemistry🧪
 -------
-• [Beginning of Chem M4]
+• [Beginning of Chem M4](https://github.com/incluDna/ShortNote_GiveAway/blob/1827748c66ceffd0327aef7eb2551f1b042d966a/Chemistry/Beginning%20of%20Chem%20M4.pdf)
+
 • [Stoichiometry](https://github.com/incluDna/ShortNote_GiveAway/blob/a1293b2a22a38331e2594acee9c1e50a497be943/Chemistry/Stoichiometry.pdf)
