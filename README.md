@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/TahPFDVghjHps1jp8x/giphy.gif" width="35"> Short Note Giveaway
 short note สำหรับอ่านเตรียมสอบ! 🔥💪🏻
 
-## Math `Coming soon`
+## Math🔢 `Coming soon`
 
 Biology🌱
 -------
