@@ -17,6 +17,6 @@ University preparation✨
 -------
 • Inter Portfolio (OSP): Computer and digital enginerring | SIIT Thamasart U. (สละสิทธิ์)
 
-<img src="https://github.com/incluDna/ShortNote_GiveAway/assets/135194778/05db603d-9d6e-4da3-91bc-7a296c430500" width="400"> <img src="https://github.com/incluDna/ShortNote_GiveAway/assets/135194778/521ba82a-10d7-4b15-901a-9f13da2394a9" width="470">
+<img src="https://github.com/incluDna/ShortNote_GiveAway/assets/135194778/05db603d-9d6e-4da3-91bc-7a296c430500" width="350"> <img src="https://github.com/incluDna/ShortNote_GiveAway/assets/135194778/521ba82a-10d7-4b15-901a-9f13da2394a9" width="420">
 - การเตรียมตัวสอบ: สอบ Math & Eng (30ข้อ 1.5ชม./วิชา) โดย ["แนวข้อสอบ"](https://admissions.siit.tu.ac.th/news_and_event/sample-question-of-siit-examination/) จะประมาณนี้เลย Math ยากกว่านี้นิดนึง ส่วน Eng ตามนี้เลย
 - การเตรียมตัวสัมภาษณ์ (รอบทุน): ไม่ได้ require portfolio แต่แนะนำว่าควรจะมี เพื่อให้กรรมการเห็นภาพมากขึ้น
