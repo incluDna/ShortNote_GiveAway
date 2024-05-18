@@ -12,3 +12,7 @@ Chemistry🧪
 • [Beginning of Chem M4](https://github.com/incluDna/ShortNote_GiveAway/blob/1827748c66ceffd0327aef7eb2551f1b042d966a/Chemistry/Beginning%20of%20Chem%20M4.pdf)
 
 • [Stoichiometry](https://github.com/incluDna/ShortNote_GiveAway/blob/a1293b2a22a38331e2594acee9c1e50a497be943/Chemistry/Stoichiometry.pdf)
+
+University preparation✨
+-------
+• Inter Portfolio: Computer and digital enginerring | SIIT Thamasart U.![IMG_1425](https://github.com/incluDna/ShortNote_GiveAway/assets/135194778/47daf790-ee3c-4ed5-8f66-823bfc72d1e9)
