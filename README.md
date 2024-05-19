@@ -4,6 +4,8 @@ short note สำหรับอ่านเตรียมสอบ! 🔥💪�
 ## Math🔢
 • [ภาคตัดกรวย](https://github.com/incluDna/ShortNote_GiveAway/blob/main/Maths/ภาคตัดกรวย.pdf) in 1 page Ver.ชอบออกสอบ
 
+• [Sequence&Series + Binomial](https://github.com/incluDna/ShortNote_GiveAway/blob/main/Maths/sequence%2C%20series%2C%20binomial.pdf)
+
 Biology🌱
 -------
 • [Excretory System](https://github.com/incluDna/ShortNote_GiveAway/blob/6b660436761faede17fb214e41073e3e70619ccc/Biology/Excretory%20System.pdf)
