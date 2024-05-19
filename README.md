@@ -2,6 +2,7 @@
 short note สำหรับอ่านเตรียมสอบ! 🔥💪🏻
 
 ## Math🔢 `Coming soon`
+• [ภาคตัดกรวย](https://github.com/incluDna/ShortNote_GiveAway/blob/main/Maths/ภาคตัดกรวย.pdf) in 1 page Ver.ชอบออกสอบ
 
 Biology🌱
 -------
