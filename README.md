@@ -6,6 +6,8 @@ short note สำหรับอ่านเตรียมสอบ! 🔥💪�
 
 • [Sequence&Series + Binomial](https://github.com/incluDna/ShortNote_GiveAway/blob/main/Maths/sequence%2C%20series%2C%20binomial.pdf)
 
+• สถิติ & ดอกเบี้ย `coming soon`
+
 Biology🌱
 -------
 • [Excretory System](https://github.com/incluDna/ShortNote_GiveAway/blob/6b660436761faede17fb214e41073e3e70619ccc/Biology/Excretory%20System.pdf)
@@ -20,5 +22,16 @@ Chemistry🧪
 
 • [Stoichiometry](https://github.com/incluDna/ShortNote_GiveAway/blob/a1293b2a22a38331e2594acee9c1e50a497be943/Chemistry/Stoichiometry.pdf)
 
-## การเตรียมตัวสอบเข้า✌🏼
-[รอบ Inter port (osp): Com & Digital Engineering + Scholarship SIIT TU | รอบ Admission: CEDT CU](https://github.com/incluDna/University_preparation)
+Physic🚀
+-------
+ไม่ค่อยมีสรุป งั้นขอเป็นแนะนำหนังสือแทนนะ ใช้ได้ถึงมหาลัยเลย!
+
+• Surway
+
+• Holiday
+
+## [การเตรียมตัวสอบเข้า✌🏼](https://github.com/incluDna/University_preparation) `< click here`
+• รอบ Inter port (osp): Com & Digital Engineering + Scholarship SIIT TU
+
+• รอบ Admission: วิศวกรรมคอมพิวเตอร์และเทคโนโลยีดิจิตอล CEDT CU
+
