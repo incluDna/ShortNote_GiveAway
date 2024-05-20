@@ -26,7 +26,7 @@ Physic🚀
 -------
 ไม่ค่อยมีสรุป งั้นขอเป็นแนะนำหนังสือแทนนะ ใช้ได้ถึงมหาลัยเลย!
 
-• [Serway](https://drive.google.com/file/d/1LyDUWHtWoEpKoio4gw-tUPaRI4b9nhGh/view?usp=drivesdk) + [Ans.key](https://drive.google.com/file/d/1iumQjJYbKrccP0hCZ-Q7BiQowrT5a2v3/view?usp=drivesdk)
+• [Serway](https://drive.google.com/file/d/1iumQjJYbKrccP0hCZ-Q7BiQowrT5a2v3/view?usp=drivesdk) + [Ans.key](https://drive.google.com/file/d/1LyDUWHtWoEpKoio4gw-tUPaRI4b9nhGh/view?usp=drivesdk)
 
 • [Halliday](https://drive.google.com/file/d/167h04__BKaR6mKsjvV5H2ydMKZwe5yTo/view?usp=drivesdk)
 
