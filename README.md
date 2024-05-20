@@ -30,7 +30,7 @@ Physic🚀
 
 • [Halliday](https://drive.google.com/file/d/167h04__BKaR6mKsjvV5H2ydMKZwe5yTo/view?usp=drivesdk)
 
-## [การเตรียมตัวสอบเข้า✌🏼](https://github.com/incluDna/University_preparation) `< click here`
+## [การเตรียมตัวสอบเข้า✌🏼](https://github.com/incluDna/University_preparation) `< click`
 • รอบ Inter port (osp): Com & Digital Engineering + Scholarship SIIT TU
 
 • รอบ Admission: วิศวกรรมคอมพิวเตอร์และเทคโนโลยีดิจิตอล CEDT CU
