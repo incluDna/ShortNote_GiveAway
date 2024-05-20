@@ -21,4 +21,4 @@ Chemistry🧪
 • [Stoichiometry](https://github.com/incluDna/ShortNote_GiveAway/blob/a1293b2a22a38331e2594acee9c1e50a497be943/Chemistry/Stoichiometry.pdf)
 
 ## การเตรียมตัวสอบเข้า✌🏼
-[Inter port (osp): Com & Digital Engineering SIIT TU + ](https://github.com/incluDna/University_preparation)
+[Inter port (osp): Com & Digital Engineering + Scholarship SIIT TU](https://github.com/incluDna/University_preparation)
