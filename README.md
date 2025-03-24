@@ -30,6 +30,8 @@ Physic🚀
 
 • [Halliday](https://drive.google.com/file/d/167h04__BKaR6mKsjvV5H2ydMKZwe5yTo/view?usp=drivesdk)
 
+• [Youtube](https://youtu.be/M7-h3FO-KKo?si=eHdPooOvU5uoWSGp) จากช่อง Mark Rober ดีมาก เพิ่มความเข้าใจทางฟิสิกส์และวิศวะได้ดี
+
 ## [การเตรียมตัวสอบเข้า✌🏼](https://github.com/incluDna/University_preparation) `< click`
 • รอบ Inter port (osp): Com & Digital Engineering + Scholarship SIIT TU
 
